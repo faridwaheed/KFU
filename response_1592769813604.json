@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "خاص",
+      "nameEn": "Private"
+    },
+    {
+      "id": "Nap4gA1tyeY=",
+      "nameAr": "نقل عام",
+      "nameEn": "Public transport"
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "نقل خاص",
+      "nameEn": "Private transport"
+    },
+    {
+      "id": "w+mTCW1569Y=",
+      "nameAr": "حافلة صغيرة عامة",
+      "nameEn": "Public minibus"
+    },
+    {
+      "id": "rAy9UhMUw6Y=",
+      "nameAr": "حافلة صغيرة خاصة ",
+      "nameEn": "Private minibus"
+    },
+    {
+      "id": "A/VaSUhyG28=",
+      "nameAr": "أجرة",
+      "nameEn": "Taxi"
+    },
+    {
+      "id": "vXChcFPkxcI=",
+      "nameAr": "أشغال عامة ",
+      "nameEn": "Heavy equipment"
+    },
+    {
+      "id": "7kRgMtOkdQE=",
+      "nameAr": "تصدير",
+      "nameEn": "Export"
+    },
+    {
+      "id": "cABXRPle08s=",
+      "nameAr": "دبلوماسي",
+      "nameEn": "دبلوماسي "
+    },
+    {
+      "id": "J4DRtp+fYEM=",
+      "nameAr": "مؤقت",
+      "nameEn": "Temporary"
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}

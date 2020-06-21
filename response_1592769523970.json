@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "أطعمة",
+      "nameEn": "Food"
+    },
+    {
+      "id": "Nap4gA1tyeY=",
+      "nameAr": "مواد غذائية",
+      "nameEn": "Foodstuffs"
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "إستهلاكية",
+      "nameEn": "Consumer Stuffs"
+    },
+    {
+      "id": "w+mTCW1569Y=",
+      "nameAr": "صحية",
+      "nameEn": "Health"
+    },
+    {
+      "id": "rAy9UhMUw6Y=",
+      "nameAr": "طرود",
+      "nameEn": "Parcels"
+    },
+    {
+      "id": "A/VaSUhyG28=",
+      "nameAr": "أخرى",
+      "nameEn": "Other"
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}

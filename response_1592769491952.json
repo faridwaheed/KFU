@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "من العميل",
+      "nameEn": "From Customer"
+    },
+    {
+      "id": "Nap4gA1tyeY=",
+      "nameAr": "التطبيق",
+      "nameEn": "Application"
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "المتجر",
+      "nameEn": "Store"
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}

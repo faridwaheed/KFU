@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "منطقة الرياض",
+      "nameEn": null
+    },
+    {
+      "id": "Nap4gA1tyeY=",
+      "nameAr": "منطقة مكة المكرمة",
+      "nameEn": null
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "منطقة المدينة المنورة",
+      "nameEn": null
+    },
+    {
+      "id": "w+mTCW1569Y=",
+      "nameAr": "منطقة القصيم",
+      "nameEn": null
+    },
+    {
+      "id": "rAy9UhMUw6Y=",
+      "nameAr": "المنطقة الشرقية",
+      "nameEn": null
+    },
+    {
+      "id": "A/VaSUhyG28=",
+      "nameAr": "منطقة عسير",
+      "nameEn": null
+    },
+    {
+      "id": "vXChcFPkxcI=",
+      "nameAr": "منطقة حائل",
+      "nameEn": null
+    },
+    {
+      "id": "7kRgMtOkdQE=",
+      "nameAr": "منطقة تبوك",
+      "nameEn": null
+    },
+    {
+      "id": "cABXRPle08s=",
+      "nameAr": "منطقة الباحة",
+      "nameEn": null
+    },
+    {
+      "id": "K752JTDp22o=",
+      "nameAr": "منطقة الحدود الشمالية",
+      "nameEn": null
+    },
+    {
+      "id": "J4DRtp+fYEM=",
+      "nameAr": "منطقة الجوف",
+      "nameEn": null
+    },
+    {
+      "id": "lC6Xv4MKJA8=",
+      "nameAr": "منطقة جازان",
+      "nameEn": null
+    },
+    {
+      "id": "xn0UMTPfYuc=",
+      "nameAr": "منطقة نجران",
+      "nameEn": null
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}

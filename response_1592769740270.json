@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "هوية وطنية",
+      "nameEn": "National Id"
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "إقامة",
+      "nameEn": "Resident Id"
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}

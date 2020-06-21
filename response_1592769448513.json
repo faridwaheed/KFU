@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "NV25GlPuOnQ=",
+      "nameAr": "مطعم",
+      "nameEn": "Restaurant"
+    },
+    {
+      "id": "Nap4gA1tyeY=",
+      "nameAr": "متجر",
+      "nameEn": "Store"
+    },
+    {
+      "id": "oIcaYzeDfQQ=",
+      "nameAr": "صيدلية",
+      "nameEn": "Pharmacy"
+    }
+  ],
+  "status": true,
+  "errorCodes": []
+}
