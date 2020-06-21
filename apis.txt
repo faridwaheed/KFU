@@ -1,0 +1,67 @@
+"driver": {
+"identityTypeId": "NV25GlPuOnQ=",
+"idNumber": "1016990911",
+"dateOfBirth": 19900419,
+"registrationDate": "2020-04-02T17:41:59.277Z",
+"mobile": "012547848",
+"regionId": "NV25GlPuOnQ=",
+"carTypeId": "oIcaYzeDfQQ=",
+"cityId": "NV25GlPuOnQ=",
+"carNumber": "12365472"
+}
+
+"driver": {
+"refrenceCode": "xn0UMTPfYuc=
+"identityTypeId": "NV25GlPuOnQ=",
+"idNumber": "1016990911",
+"dateOfBirth": 19900419,
+"registrationDate": "2020-04-02T17:41:59.277Z",
+"mobile": "012547848",
+"regionId": "NV25GlPuOnQ=",
+"carTypeId": "oIcaYzeDfQQ=",
+"cityId": "NV25GlPuOnQ=",
+"carNumber": "12365472"
+}
+
+
+"idNumber": "1016990911"
+
+"order": {
+"orderNumber": "1",
+"authorityId": "NV25GlPuOnQ=",
+"deliveryTime": "2020-04-08T12:43:33.369Z",
+"regionId": "NV25GlPuOnQ=",
+"cityId": "NV25GlPuOnQ=",
+"coordinates": "123,321",
+"storetName": "Halol",
+"storeLocation": "456,652",
+"categoryId":"NV25GlPuOnQ="
+“orderDate”:” 2020-04-19T12:07:10.723Z”
+}
+
+"referenceCode": "7kRgMtOkdQE=",
+"acceptanceDateTime": "2020-04-08T15:43:29.228Z"
+
+"referenceCode": "7kRgMtOkdQE="
+
+"orderExecutionData": {
+"referenceCode": "7kRgMtOkdQE=",
+"executionTime": "2020-04-08T15:49:19.459Z",
+"paymentMethodId": "NV25GlPuOnQ=",
+"price":20
+}
+
+"deliveryInfo": {
+"referenceCode": "7kRgMtOkdQE=",
+"regionId": "NV25GlPuOnQ=",
+"cityId": "NV25GlPuOnQ=",
+"coordinates": "20,20,20"
+}
+
+"referenceCode": "vXChcFPkxcI=",
+"idNumber": "1016990911"
+
+"orderId": "string",
+"cancelationReasonId": "string"
+
+"refrenceCode": "AECREW#$E"
